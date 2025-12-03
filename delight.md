@@ -1,1 +1,1 @@
-#tes konflikk
+#tes konflik
